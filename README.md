@@ -1,4 +1,4 @@
-# Obteneción de un Número aleatorio en JS
+# Obtención de un Número aleatorio en JS
 
 Devuelve un número aleatorio definido dentro de un rango de valores min y max.
 
